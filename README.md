@@ -6,9 +6,8 @@ Click For Live Visit=> https://learnwithfair.github.io/html-template-klassy_cafe
 ## For More Website Demo
 Visit -> https://themewagon.com/theme-tag/restaurant-template/
 
-## Site Demo
-[image
-](https://github.com/learnwithfair/html-template-restaurant-restoran/commit/43409e26a2d00a1b498c54f4b91a44b2921a1bd9#commitcomment-134443307)
+## Project Demo
+![bootstrap-restaurant-template](https://github.com/learnwithfair/html-template-restaurant-restoran/assets/103452668/07913bef-7ed6-43d2-85ee-8aa146829041)
 
 ## Other Useful Links
 
