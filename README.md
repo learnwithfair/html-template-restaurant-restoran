@@ -6,6 +6,10 @@ Click For Live Visit=> https://learnwithfair.github.io/html-template-klassy_cafe
 ## For More Website Demo
 Visit -> https://themewagon.com/theme-tag/restaurant-template/
 
+## Site Demo
+[image
+](https://github.com/learnwithfair/html-template-restaurant-restoran/commit/43409e26a2d00a1b498c54f4b91a44b2921a1bd9#commitcomment-134443307)
+
 ## Other Useful Links
 
 **ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
